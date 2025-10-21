@@ -1,0 +1,7 @@
+{
+  "name": "AI Phân Loại Rác Thải -2210 ",
+  "description": "Một ứng dụng web sử dụng Trí Tuệ Nhân Tạo (AI) và Teachable Machine để phân loại rác thải từ webcam hoặc hình ảnh tải lên. Ứng dụng cung cấp thông tin chi tiết về cách thu gom, tác hại và tái sử dụng cho từng loại rác.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
